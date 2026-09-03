@@ -1,0 +1,16 @@
+a:active{
+    color:blue
+    font-weight: .2em;
+}
+a:hover{
+    color:red;
+    font-weight: italic;
+}
+a:visited{
+    color:red;
+    font-weight:bolder
+}
+a:link{
+    color:green;
+    font-weight: bold;
+}
